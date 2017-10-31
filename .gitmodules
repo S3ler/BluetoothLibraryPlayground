@@ -1,0 +1,18 @@
+[submodule "NUS/Central/SimpleBluetoothLowEnergySocket/lib/SimpleBluetoothLowEnergySocket"]
+	path = NUS/Central/SimpleBluetoothLowEnergySocket/lib/SimpleBluetoothLowEnergySocket
+	url = https://github.com/S3ler/SimpleBluetoothLowEnergySocket.git
+[submodule "NUS/Central/gobbledegook/lib/gobbledegook"]
+	path = NUS/Central/gobbledegook/lib/gobbledegook
+	url = https://github.com/nettlep/gobbledegook.git
+[submodule "NUS/Central/tinyb/lib/tinyb"]
+	path = NUS/Central/tinyb/lib/tinyb
+	url = https://github.com/intel-iot-devkit/tinyb.git
+[submodule "NUS/Peripheral/tinyb/lib/tinyb"]
+	path = NUS/Peripheral/tinyb/lib/tinyb
+	url = https://github.com/intel-iot-devkit/tinyb.git
+[submodule "NUS/Peripheral/SimpleBluetoothLowEnergySocket/lib/SimpleBluetoothLowEnergySocket"]
+	path = NUS/Peripheral/SimpleBluetoothLowEnergySocket/lib/SimpleBluetoothLowEnergySocket
+	url = https://github.com/S3ler/SimpleBluetoothLowEnergySocket.git
+[submodule "NUS/Peripheral/gobbledegook/lib/gobbledegook"]
+	path = NUS/Peripheral/gobbledegook/lib/gobbledegook
+	url = https://github.com/nettlep/gobbledegook.git
